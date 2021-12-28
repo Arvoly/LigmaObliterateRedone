@@ -1,7 +1,7 @@
-﻿{
+{
 	"name": "LigmaObliterateRedone",
 	"version_number": "1.0.0",
-	"website_url": "",
+	"website_url": "https://github.com/Arvoly/LigmaObliterateRedone",
 	"description": "It's so sad Steve Jobs died of ligma.",
 	"dependencies": [
 		"Harb-AssetPlusRequester-1.0.0"
