@@ -7,11 +7,11 @@ Based on [this Reddit post](https://www.reddit.com/r/riskofrain/comments/r49747/
 This is a redone version of [this RoR2 Mod]
 (https://thunderstore.io/package/slaugaus/LigmaObliterate/1.0.0/) by [Slaugaus](https://thunderstore.io/package/slaugaus/)
 
-![It's so sad Steve Jobs died of ligma.](https://imgur.com/a/FEWYw8R)
+![It's so sad Steve Jobs died of ligma.](https://i.imgur.com/tvRDXV7.jpg)
 
-![Who the hell is Steve Jobs?](https://imgur.com/a/nAwxQ4z)
+![Who the hell is Steve Jobs?](https://i.imgur.com/LaJcRBB.jpg)
 
-![Ligma balls](https://imgur.com/a/VO0r4Q6)
+![Ligma balls](https://i.imgur.com/1nebT9U.jpg)
 
 I will be adding a sound effect when you get Obliterated in the future, when I finally figure out how to do it.
 
